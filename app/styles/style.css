@@ -1,0 +1,156 @@
+@font-face {
+    font-family: "Genshin Impact DRIP FONT";
+    src: url("../imgs/font/Genshin_Font.ttf") format("truetype");
+}
+
+*,
+::before,
+::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+    list-style: none;
+    text-decoration: none;
+
+    font-family: "Genshin Impact DRIP FONT";
+}
+
+.grid-container {
+    height: auto;
+    min-height: 300px;
+    width: 100%;
+
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto 1fr auto;
+}
+
+header {
+    grid-column: span 2;
+    padding: 20px;
+    text-align: center;
+
+    font-size: 22px;
+    background-color: #f5f5f5;
+}
+
+
+section {
+    grid-column: span 2;
+    padding: 20px;
+    text-align: center;
+
+    font-size: 22px;
+}
+
+aside {
+    grid-column: span 1;
+    padding: 20px;
+}
+
+main {
+    grid-column: span 1;
+    padding: 20px;
+    min-height: 90vh;
+}
+
+.galerie {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    align-items: center;
+    justify-content: left;
+}
+
+.cards_team {
+    height: auto;
+    width: 80%;
+
+    margin: 10px 10%;
+    background-color: #f5f5f5;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 15px;
+}
+
+.cards_team>.card {
+    margin: 0px 10px;
+    height: 100%;
+    width: 140px;
+}
+
+.card {
+    height: 120px;
+    width: 120px;
+
+    margin: 10px;
+    background-color: #f5f5f5;
+
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 15px;
+    overflow: hidden;
+    filter: contrast(50%);
+
+    /* <- ceci va cacher ce qui dépasse */
+}
+
+.face {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+.five_star {
+    background-color: #d4965a;
+}
+
+.four_star {
+    background-color: #9c79ae;
+}
+
+.table_caracters>.actif_card {
+    border: 6px solid #4a88fc;
+}
+
+.actif_card {
+    filter: contrast(100%);
+}
+
+footer {
+    grid-column: span 2;
+    padding: 20px;
+    text-align: center;
+
+    color: white;
+
+    font-size: 22px;
+    background-color: rgb(55, 55, 59);
+}
+
+@media screen and (max-width : 1000px) {
+    .grid-container {
+        display: flex;
+
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .galerie {
+        justify-content: center;
+    }
+
+}

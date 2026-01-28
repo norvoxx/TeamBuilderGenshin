@@ -1,0 +1,2130 @@
+{
+    "Aino": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Flins",
+                "Ineffa",
+                "Aino",
+                "Sucrose"
+            ]
+        ]
+    },
+    "Albedo": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Xiao",
+                "Faruzan",
+                "Albedo",
+                "Zhongli"
+            ],
+            [
+                "Itto",
+                "Gorou",
+                "Albedo",
+                "Zhongli"
+            ]
+        ]
+    },
+    "Alhaitham": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Alhaitham",
+                "Yae_Miko",
+                "Kuki_Shinobu",
+                "Nahida"
+            ],
+            [
+                "Alhaitham",
+                "Xingqiu",
+                "Kuki_Shinobu",
+                "Nahida"
+            ]
+        ]
+    },
+    "Aloy": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Ayaka",
+                "Aloy",
+                "Kokomi",
+                "Venti"
+            ],
+            [
+                "Ganyu",
+                "Aloy",
+                "Mona",
+                "Jean"
+            ],
+            [
+                "Bennett",
+                "Rosaria",
+                "Aloy",
+                "Xiangling"
+            ]
+        ]
+    },
+    "Amber": {
+        "star": 4,
+        "element": 4,
+        "best_team": []
+    },
+    "Itto": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Itto",
+                "Gorou",
+                "Albedo",
+                "Zhongli"
+            ],
+            [
+                "Itto",
+                "Gorou",
+                "Albedo",
+                "Durin"
+            ]
+        ]
+    },
+    "Arlecchino": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Arlecchino",
+                "Yelan",
+                "Xingqiu",
+                "Kazuha"
+            ],
+            [
+                "Arlecchino",
+                "Yelan",
+                "Xingqiu",
+                "Zhongli"
+            ],
+            [
+                "Arlecchino",
+                "Fischl",
+                "Bennett",
+                "Chevreuse"
+            ]
+        ]
+    },
+    "Baizhu": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Cyno",
+                "Xingqiu",
+                "Nahida",
+                "Baizhu"
+            ],
+            [
+                "Cyno",
+                "Fischl",
+                "Baizhu",
+                "Kazuha"
+            ],
+            [
+                "Alhaitham",
+                "Yae_Miko",
+                "Fischl",
+                "Baizhu"
+            ]
+        ]
+    },
+    "Barbara": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Nilou",
+                "Xingqiu",
+                "Nahida",
+                "Barbara"
+            ],
+            [
+                "Ayaka",
+                "Shenhe",
+                "Barbara",
+                "Kazuha"
+            ],
+            [
+                "Barbara",
+                "Fischl",
+                "Yae_Miko",
+                "Kazuha"
+            ]
+        ]
+    },
+    "Beidou": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Ayato",
+                "Fischl",
+                "Beidou",
+                "Jean"
+            ],
+            [
+                "Childe",
+                "Fischl",
+                "Beidou",
+                "Bennett"
+            ],
+            [
+                "Keqing",
+                "Beidou",
+                "Xingqiu",
+                "Kazuha"
+            ]
+        ]
+    },
+    "Bennett": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Childe",
+                "Xiangling",
+                "Bennett",
+                "Kazuha"
+            ],
+            [
+                "Raiden",
+                "Xingqiu",
+                "Xiangling",
+                "Bennett"
+            ],
+            [
+                "Xiao",
+                "Faruzan",
+                "Bennett",
+                "Zhongli"
+            ]
+        ]
+    },
+    "Candace": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Ayaka",
+                "Shenhe",
+                "Candace",
+                "Kazuha"
+            ],
+            [
+                "Nilou",
+                "Candace",
+                "Nahida",
+                "Kokomi"
+            ]
+        ]
+    },
+    "Charlotte": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Wriothesley",
+                "Charlotte",
+                "Xingqiu",
+                "Kazuha"
+            ],
+            [
+                "Charlotte",
+                "Furina",
+                "Nahida",
+                "Raiden"
+            ],
+            [
+                "Thoma",
+                "Charlotte",
+                "Xingqiu",
+                "Nahida"
+            ]
+        ]
+    },
+    "Chasca": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Chasca",
+                "Furina",
+                "Bennett",
+                "Ororon"
+            ],
+            [
+                "Chasca",
+                "Furina",
+                "Bennett",
+                "Shenhe"
+            ],
+            [
+                "Chasca",
+                "Furina",
+                "Bennett",
+                "Xiangling"
+            ]
+        ]
+    },
+    "Chevreuse": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Raiden",
+                "Xiangling",
+                "Chevreuse",
+                "Bennett"
+            ],
+            [
+                "Yoimiya",
+                "Fischl",
+                "Chevreuse",
+                "Bennett"
+            ],
+            [
+                "Raiden",
+                "Sara",
+                "Chevreuse",
+                "Bennett"
+            ]
+        ]
+    },
+    "Chiori": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Itto",
+                "Gorou",
+                "Chiori",
+                "Bennett"
+            ],
+            [
+                "Navia",
+                "Xiangling",
+                "Bennett",
+                "Chiori"
+            ]
+        ]
+    },
+    "Chongyun": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Bennett",
+                "Rosaria",
+                "Chongyun",
+                "Sucrose"
+            ],
+            [
+                "Kaeya",
+                "Xingqiu",
+                "Chongyun",
+                "Kazuha"
+            ]
+        ]
+    },
+    "Citlali": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Mavuika",
+                "Bennett",
+                "Xilonen",
+                "Citlali"
+            ]
+        ]
+    },
+    "Clorinde": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Clorinde",
+                "Fischl",
+                "Nahida",
+                "Kazuha"
+            ],
+            [
+                "Clorinde",
+                "Yae_Miko",
+                "Nahida",
+                "Zhongli"
+            ],
+            [
+                "Clorinde",
+                "Fischl",
+                "Nahida",
+                "Furina"
+            ]
+        ]
+    },
+    "Collei": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Nilou",
+                "Collei",
+                "Nahida",
+                "Kokomi"
+            ],
+            [
+                "Keqing",
+                "Fischl",
+                "Collei",
+                "Kazuha"
+            ],
+            [
+                "Tighnari",
+                "Fischl",
+                "Collei",
+                "Zhongli"
+            ]
+        ]
+    },
+    "Columbina": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Neuvillette",
+                "Columbina",
+                "Ineffa",
+                "Lauma"
+            ],
+            [
+                "Flins",
+                "Columbina",
+                "Ineffa",
+                "Sucrose"
+            ]
+        ]
+    },
+    "Cyno": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Cyno",
+                "Mona",
+                "Nahida",
+                "Kuki_Shinobu"
+            ],
+            [
+                "Cyno",
+                "Fischl",
+                "Nahida",
+                "Zhongli"
+            ]
+        ]
+    },
+    "Dahlia": {
+        "star": 4,
+        "element": 4,
+        "best_team": []
+    },
+    "Dehya": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Ganyu",
+                "Bennett",
+                "Nahida",
+                "Dehya"
+            ]
+        ]
+    },
+    "Diluc": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Diluc",
+                "Furina",
+                "Bennett",
+                "Xianyun"
+            ],
+            [
+                "Diluc",
+                "Xingqiu",
+                "Bennett",
+                "Sucrose"
+            ]
+        ]
+    },
+    "Diona": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Ganyu",
+                "Mona",
+                "Diona",
+                "Venti"
+            ],
+            [
+                "Eula",
+                "Fischl",
+                "Rosaria",
+                "Diona"
+            ],
+            [
+                "Ayaka",
+                "Shenhe",
+                "Diona",
+                "Kazuha"
+            ]
+        ]
+    },
+    "Dori": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Fischl",
+                "Nahida",
+                "Dori",
+                "Kazuha"
+            ]
+        ]
+    },
+    "Durin": {
+        "star": 5,
+        "element": 5,
+        "best_team": []
+    },
+    "Emilie": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Arlecchino",
+                "Emilie",
+                "Bennett",
+                "Kazuha"
+            ],
+            [
+                "Xiangling",
+                "Emilie",
+                "Bennett",
+                "Furina"
+            ],
+            [
+                "Wriothesley",
+                "Emilie",
+                "Xiangling",
+                "Bennett"
+            ]
+        ]
+    },
+    "Escoffier": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Ayaka",
+                "Escoffier",
+                "Shenhe",
+                "Furina"
+            ],
+            [
+                "Wriothesley",
+                "Escoffier",
+                "Shenhe",
+                "Furina"
+            ],
+            [
+                "Ayaka",
+                "Escoffier",
+                "Shenhe",
+                "Furina"
+            ]
+        ]
+    },
+    "Eula": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Eula",
+                "Fischl",
+                "Rosaria",
+                "Mika"
+            ],
+            [
+                "Eula",
+                "Raiden",
+                "Rosaria",
+                "Mika"
+            ]
+        ]
+    },
+    "Faruzan": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Xiao",
+                "Faruzan",
+                "Bennett",
+                "Zhongli"
+            ],
+            [
+                "Xiao",
+                "Faruzan",
+                "Albedo",
+                "Zhongli"
+            ],
+            [
+                "Wanderer",
+                "Faruzan",
+                "Bennett",
+                "Zhongli"
+            ]
+        ]
+    },
+    "Fischl": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Eula",
+                "Fischl",
+                "Rosaria",
+                "Mika"
+            ],
+            [
+                "Ayato",
+                "Fischl",
+                "Bennett",
+                "Kazuha"
+            ],
+            [
+                "Kokomi",
+                "Fischl",
+                "Yae_Miko",
+                "Kazuha"
+            ]
+        ]
+    },
+    "Flins": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Flins",
+                "Ineffa",
+                "Columbina",
+                "Sucrose"
+            ]
+        ]
+    },
+    "Freminet": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Freminet",
+                "Xingqiu",
+                "Fischl",
+                "Zhongli"
+            ],
+            [
+                "Freminet",
+                "Xingqiu",
+                "Kuki_Shinobu",
+                "Traveler_(Dendro)"
+            ]
+        ]
+    },
+    "Furina": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Xiangling",
+                "Xingqiu",
+                "Bennett",
+                "Furina"
+            ],
+            [
+                "Mavuika",
+                "Bennett",
+                "Xilonen",
+                "Furina"
+            ],
+            [
+                "Neuvillette",
+                "Furina",
+                "Xilonen",
+                "Kazuha"
+            ]
+        ]
+    },
+    "Gaming": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Gaming",
+                "Xingqiu",
+                "Bennett",
+                "Sucrose"
+            ]
+        ]
+    },
+    "Ganyu": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Ayaka",
+                "Escoffier",
+                "Shenhe",
+                "Furina"
+            ],
+            [
+                "Ganyu",
+                "Xiangling",
+                "Bennett",
+                "Zhongli"
+            ],
+            [
+                "Ganyu",
+                "Shenhe",
+                "Diona",
+                "Kazuha"
+            ]
+        ]
+    },
+    "Gorou": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Itto",
+                "Gorou",
+                "Albedo",
+                "Zhongli"
+            ]
+        ]
+    },
+    "Hu_Tao": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Hu_Tao",
+                "Xingqiu",
+                "Yelan",
+                "Zhongli"
+            ],
+            [
+                "Hu_Tao",
+                "Furina",
+                "Xingqiu",
+                "Xianyun"
+            ],
+            [
+                "Hu_Tao",
+                "Xingqiu",
+                "Thoma",
+                "Kazuha"
+            ]
+        ]
+    },
+    "Iansan": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Varesa",
+                "Mavuika",
+                "Chevreuse",
+                "Iansan"
+            ],
+            [
+                "Varesa",
+                "Furina",
+                "Xianyun",
+                "Iansan"
+            ]
+        ]
+    },
+    "Ifa": {
+        "star": 4,
+        "element": 4,
+        "best_team": []
+    },
+    "Ineffa": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Flins",
+                "Ineffa",
+                "Columbina",
+                "Sucrose"
+            ],
+            [
+                "Ifa",
+                "Ineffa",
+                "Ororon",
+                "Furina"
+            ],
+            [
+                "Neuvillette",
+                "Furina",
+                "Ineffa",
+                "Kazuha"
+            ]
+        ]
+    },
+    "Jahoda": {
+        "star": 4,
+        "element": 4,
+        "best_team": []
+    },
+    "Jean": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Ganyu",
+                "Aloy",
+                "Mona",
+                "Jean"
+            ],
+            [
+                "Ayato",
+                "Fischl",
+                "Beidou",
+                "Jean"
+            ]
+        ]
+    },
+    "Kachina": {
+        "star": 4,
+        "element": 4,
+        "best_team": []
+    },
+    "Kazuha": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Childe",
+                "Xiangling",
+                "Bennett",
+                "Kazuha"
+            ],
+            [
+                "Ayaka",
+                "Shenhe",
+                "Kokomi",
+                "Kazuha"
+            ],
+            [
+                "Neuvillette",
+                "Furina",
+                "Xilonen",
+                "Kazuha"
+            ]
+        ]
+    },
+    "Kaeya": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Bennett",
+                "Rosaria",
+                "Kaeya",
+                "Xiangling"
+            ],
+            [
+                "Ayaka",
+                "Kaeya",
+                "Kokomi",
+                "Kazuha"
+            ],
+            [
+                "Kaeya",
+                "Xingqiu",
+                "Chongyun",
+                "Kazuha"
+            ]
+        ]
+    },
+    "Ayaka": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Ayaka",
+                "Escoffier",
+                "Shenhe",
+                "Furina"
+            ],
+            [
+                "Ayaka",
+                "Mona",
+                "Diona",
+                "Venti"
+            ],
+            [
+                "Ayaka",
+                "Shenhe",
+                "Diona",
+                "Kazuha"
+            ]
+        ]
+    },
+    "Ayato": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Ayato",
+                "Fischl",
+                "Bennett",
+                "Kazuha"
+            ],
+            [
+                "Ayato",
+                "Fischl",
+                "Beidou",
+                "Jean"
+            ],
+            [
+                "Ayato",
+                "Fischl",
+                "Xiangling",
+                "Bennett"
+            ]
+        ]
+    },
+    "Kaveh": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Nilou",
+                "Xingqiu",
+                "Kaveh",
+                "Baizhu"
+            ],
+            [
+                "Nilou",
+                "Kokomi",
+                "Kaveh",
+                "Nahida"
+            ]
+        ]
+    },
+    "Keqing": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Keqing",
+                "Fischl",
+                "Collei",
+                "Kazuha"
+            ],
+            [
+                "Keqing",
+                "Beidou",
+                "Xingqiu",
+                "Kazuha"
+            ],
+            [
+                "Keqing",
+                "Fischl",
+                "Rosaria",
+                "Zhongli"
+            ]
+        ]
+    },
+    "Kinich": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Kinich",
+                "Xiangling",
+                "Bennett",
+                "Emilie"
+            ],
+            [
+                "Kinich",
+                "Xiangling",
+                "Bennett",
+                "Furina"
+            ],
+            [
+                "Kinich",
+                "Xingqiu",
+                "Bennett",
+                "Thoma"
+            ]
+        ]
+    },
+    "Kirara": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Keqing",
+                "Fischl",
+                "Kirara",
+                "Kazuha"
+            ],
+            [
+                "Nilou",
+                "Nahida",
+                "Kirara",
+                "Barbara"
+            ],
+            [
+                "Nilou",
+                "Alhaitham",
+                "Kirara",
+                "Xingqiu"
+            ]
+        ]
+    },
+    "Klee": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Klee",
+                "Xiangling",
+                "Bennett",
+                "Kazuha"
+            ],
+            [
+                "Klee",
+                "Xingqiu",
+                "Yelan",
+                "Bennett"
+            ]
+        ]
+    },
+    "Sara": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Raiden",
+                "Sara",
+                "Bennett",
+                "Kazuha"
+            ],
+            [
+                "Childe",
+                "Fischl",
+                "Sara",
+                "Bennett"
+            ]
+        ]
+    },
+    "Kuki_Shinobu": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Nilou",
+                "Xingqiu",
+                "Nahida",
+                "Kuki_Shinobu"
+            ],
+            [
+                "Alhaitham",
+                "Yae_Miko",
+                "Kuki_Shinobu",
+                "Nahida"
+            ]
+        ]
+    },
+    "Lan_Yan": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Arlecchino",
+                "Bennett",
+                "Xilonen",
+                "Lan_Yan"
+            ],
+            [
+                "Neuvillette",
+                "Furina",
+                "Xilonen",
+                "Kazuha"
+            ]
+        ]
+    },
+    "Lauma": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Nilou",
+                "Lauma",
+                "Nahida",
+                "Kokomi"
+            ]
+        ]
+    },
+    "Layla": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Ganyu",
+                "Mona",
+                "Layla",
+                "Venti"
+            ],
+            [
+                "Ayaka",
+                "Mona",
+                "Layla",
+                "Venti"
+            ],
+            [
+                "Hu_Tao",
+                "Xingqiu",
+                "Yelan",
+                "Layla"
+            ]
+        ]
+    },
+    "Lisa": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Alhaitham",
+                "Lisa",
+                "Kuki_Shinobu",
+                "Nahida"
+            ],
+            [
+                "Cyno",
+                "Lisa",
+                "Nahida",
+                "Zhongli"
+            ],
+            [
+                "Raiden",
+                "Lisa",
+                "Bennett",
+                "Kazuha"
+            ]
+        ]
+    },
+    "Lynette": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Lyney",
+                "Xiangling",
+                "Bennett",
+                "Lynette"
+            ],
+            [
+                "Lynette",
+                "Fischl",
+                "Beidou",
+                "Xingqiu"
+            ]
+        ]
+    },
+    "Lyney": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Lyney",
+                "Xiangling",
+                "Bennett",
+                "Kazuha"
+            ],
+            [
+                "Lyney",
+                "Xiangling",
+                "Bennett",
+                "Zhongli"
+            ],
+            [
+                "Lyney",
+                "Dehya",
+                "Bennett",
+                "Kazuha"
+            ]
+        ]
+    },
+    "Mavuika": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Mavuika",
+                "Bennett",
+                "Xilonen",
+                "Citlali"
+            ],
+            [
+                "Mavuika",
+                "Bennett",
+                "Xilonen",
+                "Furina"
+            ]
+        ]
+    },
+    "Mika": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Eula",
+                "Fischl",
+                "Rosaria",
+                "Mika"
+            ],
+            [
+                "Wanderer",
+                "Faruzan",
+                "Bennett",
+                "Mika"
+            ]
+        ]
+    },
+    "Mona": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Ganyu",
+                "Mona",
+                "Diona",
+                "Venti"
+            ],
+            [
+                "Ayaka",
+                "Mona",
+                "Diona",
+                "Venti"
+            ],
+            [
+                "Mona",
+                "Xiangling",
+                "Bennett",
+                "Kazuha"
+            ]
+        ]
+    },
+    "Mualani": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Mualani",
+                "Dehya",
+                "Nahida",
+                "Zhongli"
+            ],
+            [
+                "Mualani",
+                "Xiangling",
+                "Chiori",
+                "Zhongli"
+            ],
+            [
+                "Mualani",
+                "Xiangling",
+                "Furina",
+                "Xilonen"
+            ]
+        ]
+    },
+    "Nahida": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Nilou",
+                "Lauma",
+                "Nahida",
+                "Kokomi"
+            ],
+            [
+                "Alhaitham",
+                "Yae_Miko",
+                "Kuki_Shinobu",
+                "Nahida"
+            ],
+            [
+                "Cyno",
+                "Fischl",
+                "Nahida",
+                "Zhongli"
+            ]
+        ]
+    },
+    "Navia": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Navia",
+                "Xiangling",
+                "Bennett",
+                "Zhongli"
+            ],
+            [
+                "Navia",
+                "Fischl",
+                "Beidou",
+                "Xingqiu"
+            ]
+        ]
+    },
+    "Nefer": {
+        "star": 5,
+        "element": 5,
+        "best_team": []
+    },
+    "Neuvillette": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Neuvillette",
+                "Furina",
+                "Xilonen",
+                "Kazuha"
+            ],
+            [
+                "Neuvillette",
+                "Fischl",
+                "Zhongli",
+                "Kazuha"
+            ],
+            [
+                "Neuvillette",
+                "Nahida",
+                "Kuki_Shinobu",
+                "Zhongli"
+            ]
+        ]
+    },
+    "Nilou": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Nilou",
+                "Lauma",
+                "Nahida",
+                "Kokomi"
+            ]
+        ]
+    },
+    "Ningguang": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Ningguang",
+                "Fischl",
+                "Albedo",
+                "Zhongli"
+            ],
+            [
+                "Ningguang",
+                "Fischl",
+                "Bennett",
+                "Zhongli"
+            ]
+        ]
+    },
+    "Noelle": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Noelle",
+                "Furina",
+                "Gorou",
+                "Albedo"
+            ],
+            [
+                "Noelle",
+                "Gorou",
+                "Albedo",
+                "Zhongli"
+            ]
+        ]
+    },
+    "Nomade": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Nomade",
+                "Freminet",
+                "Barbara",
+                "Chiori"
+            ],
+            [
+                "Nomade",
+                "Shogun_Raiden",
+                "Kachina",
+                "Xilonen"
+            ],
+            [
+                "Nomade",
+                "Layla",
+                "Kamisato_Ayato",
+                "Ningguang"
+            ],
+            [
+                "Nomade",
+                "Yun_Jin",
+                "Yanfei",
+                "Keqing"
+            ]
+        ]
+    },
+    "Ororon": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Chasca",
+                "Furina",
+                "Bennett",
+                "Ororon"
+            ]
+        ]
+    },
+    "Qiqi": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Eula",
+                "Fischl",
+                "Rosaria",
+                "Qiqi"
+            ],
+            [
+                "Xiao",
+                "Faruzan",
+                "Bennett",
+                "Qiqi"
+            ]
+        ]
+    },
+    "Razor": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Razor",
+                "Xingqiu",
+                "Yelan",
+                "Zhongli"
+            ],
+            [
+                "Razor",
+                "Fischl",
+                "Xingqiu",
+                "Diona"
+            ],
+            [
+                "Razor",
+                "Fischl",
+                "Nahida",
+                "Diona"
+            ]
+        ]
+    },
+    "Rosalia": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Rosalia",
+                "Xilonen",
+                "Ifa",
+                "Faruzan"
+            ],
+            [
+                "Rosalia",
+                "Wriothesley",
+                "Gorou",
+                "Skirk"
+            ],
+            [
+                "Rosalia",
+                "Skirk",
+                "Lauma",
+                "Clorinde"
+            ],
+            [
+                "Rosalia",
+                "Jean",
+                "Shenhe",
+                "Ororon"
+            ]
+        ]
+    },
+    "Kokomi": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Nilou",
+                "Lauma",
+                "Nahida",
+                "Kokomi"
+            ],
+            [
+                "Ayaka",
+                "Shenhe",
+                "Kokomi",
+                "Kazuha"
+            ],
+            [
+                "Kokomi",
+                "Fischl",
+                "Yae_Miko",
+                "Kazuha"
+            ]
+        ]
+    },
+    "Sayu": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Xiao",
+                "Fischl",
+                "Sayu",
+                "Zhongli"
+            ],
+            [
+                "Keqing",
+                "Fischl",
+                "Collei",
+                "Sayu"
+            ],
+            [
+                "Xiangling",
+                "Bennett",
+                "Sayu",
+                "Kazuha"
+            ]
+        ]
+    },
+    "Sethos": {
+        "star": 4,
+        "element": 4,
+        "best_team": []
+    },
+    "Shenhe": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Ayaka",
+                "Escoffier",
+                "Shenhe",
+                "Furina"
+            ],
+            [
+                "Ayaka",
+                "Shenhe",
+                "Diona",
+                "Kazuha"
+            ],
+            [
+                "Eula",
+                "Fischl",
+                "Shenhe",
+                "Mika"
+            ]
+        ]
+    },
+    "Heizou": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Hu_Tao",
+                "Xingqiu",
+                "Thoma",
+                "Heizou"
+            ],
+            [
+                "Ayaka",
+                "Shenhe",
+                "Kokomi",
+                "Heizou"
+            ]
+        ]
+    },
+    "Raiden": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Raiden",
+                "Xingqiu",
+                "Xiangling",
+                "Bennett"
+            ],
+            [
+                "Raiden",
+                "Sara",
+                "Bennett",
+                "Kazuha"
+            ]
+        ]
+    },
+    "Sigewinne": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Ayaka",
+                "Shenhe",
+                "Sigewinne",
+                "Kazuha"
+            ],
+            [
+                "Yelan",
+                "Furina",
+                "Sigewinne",
+                "Kazuha"
+            ],
+            [
+                "Wriothesley",
+                "Shenhe",
+                "Sigewinne",
+                "Kazuha"
+            ]
+        ]
+    },
+    "Skirk": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Skirk",
+                "Escoffier",
+                "Furina",
+                "Shenhe"
+            ]
+        ]
+    },
+    "Sucrose": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Childe",
+                "Xiangling",
+                "Bennett",
+                "Sucrose"
+            ],
+            [
+                "Ayaka",
+                "Shenhe",
+                "Kokomi",
+                "Sucrose"
+            ],
+            [
+                "Flins",
+                "Ineffa",
+                "Columbina",
+                "Sucrose"
+            ]
+        ]
+    },
+    "Tartaglia": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Tartaglia",
+                "Jahoda",
+                "Mika",
+                "Clorinde"
+            ],
+            [
+                "Tartaglia",
+                "Aino",
+                "Jean",
+                "Kamisato_Ayaka"
+            ],
+            [
+                "Tartaglia",
+                "Aloy",
+                "Kuki_Shinobu",
+                "Sucrose"
+            ],
+            [
+                "Tartaglia",
+                "Lynette",
+                "Xilonen",
+                "Chevreuse"
+            ]
+        ]
+    },
+    "Thoma": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Hu_Tao",
+                "Xingqiu",
+                "Thoma",
+                "Kazuha"
+            ],
+            [
+                "Yoimiya",
+                "Xingqiu",
+                "Sucrose",
+                "Thoma"
+            ],
+            [
+                "Thoma",
+                "Fischl",
+                "Kokomi",
+                "Nahida"
+            ]
+        ]
+    },
+    "Tighnari": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Keqing",
+                "Fischl",
+                "Tighnari",
+                "Kazuha"
+            ],
+            [
+                "Tighnari",
+                "Fischl",
+                "Collei",
+                "Zhongli"
+            ]
+        ]
+    },
+    "Varesa": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Varesa",
+                "Mavuika",
+                "Chevreuse",
+                "Iansan"
+            ],
+            [
+                "Varesa",
+                "Furina",
+                "Xianyun",
+                "Iansan"
+            ]
+        ]
+    },
+    "Venti": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Ganyu",
+                "Mona",
+                "Diona",
+                "Venti"
+            ],
+            [
+                "Xiao",
+                "Venti",
+                "Bennett",
+                "Zhongli"
+            ],
+            [
+                "Kokomi",
+                "Fischl",
+                "Yae_Miko",
+                "Venti"
+            ]
+        ]
+    },
+    "Wriothesley": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Wriothesley",
+                "Shenhe",
+                "Xiangling",
+                "Bennett"
+            ],
+            [
+                "Wriothesley",
+                "Escoffier",
+                "Shenhe",
+                "Furina"
+            ],
+            [
+                "Wriothesley",
+                "Shenhe",
+                "Kokomi",
+                "Kazuha"
+            ]
+        ]
+    },
+    "Xiangling": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Childe",
+                "Xiangling",
+                "Bennett",
+                "Kazuha"
+            ],
+            [
+                "Raiden",
+                "Xingqiu",
+                "Xiangling",
+                "Bennett"
+            ],
+            [
+                "Xiangling",
+                "Xingqiu",
+                "Bennett",
+                "Kazuha"
+            ]
+        ]
+    },
+    "Xianyun": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Xiao",
+                "Faruzan",
+                "Furina",
+                "Xianyun"
+            ],
+            [
+                "Diluc",
+                "Furina",
+                "Bennett",
+                "Xianyun"
+            ],
+            [
+                "Hu_Tao",
+                "Furina",
+                "Xingqiu",
+                "Xianyun"
+            ]
+        ]
+    },
+    "Xiao": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Xiao",
+                "Faruzan",
+                "Furina",
+                "Xianyun"
+            ],
+            [
+                "Xiao",
+                "Faruzan",
+                "Bennett",
+                "Zhongli"
+            ],
+            [
+                "Xiao",
+                "Faruzan",
+                "Albedo",
+                "Zhongli"
+            ]
+        ]
+    },
+    "Xilonen": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Neuvillette",
+                "Furina",
+                "Xilonen",
+                "Kazuha"
+            ],
+            [
+                "Mualani",
+                "Xiangling",
+                "Furina",
+                "Xilonen"
+            ],
+            [
+                "Arlecchino",
+                "Xiangling",
+                "Xilonen",
+                "Kazuha"
+            ]
+        ]
+    },
+    "Xingqiu": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Nilou",
+                "Xingqiu",
+                "Nahida",
+                "Kokomi"
+            ],
+            [
+                "Raiden",
+                "Xingqiu",
+                "Xiangling",
+                "Bennett"
+            ],
+            [
+                "Hu_Tao",
+                "Xingqiu",
+                "Yelan",
+                "Zhongli"
+            ]
+        ]
+    },
+    "Xinyan": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Xinyan",
+                "Fischl",
+                "Rosaria",
+                "Bennett"
+            ],
+            [
+                "Xinyan",
+                "Fischl",
+                "Xiangling",
+                "Kazuha"
+            ]
+        ]
+    },
+    "Yae_Miko": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Kokomi",
+                "Fischl",
+                "Yae_Miko",
+                "Kazuha"
+            ],
+            [
+                "Alhaitham",
+                "Yae_Miko",
+                "Kuki_Shinobu",
+                "Nahida"
+            ],
+            [
+                "Raiden",
+                "Yae_Miko",
+                "Bennett",
+                "Venti"
+            ]
+        ]
+    },
+    "Yanfei": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Yanfei",
+                "Xingqiu",
+                "Bennett",
+                "Zhongli"
+            ]
+        ]
+    },
+    "Yaoyao": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Alhaitham",
+                "Fischl",
+                "Yae_Miko",
+                "Yaoyao"
+            ],
+            [
+                "Nilou",
+                "Xingqiu",
+                "Nahida",
+                "Yaoyao"
+            ]
+        ]
+    },
+    "Yelan": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Hu_Tao",
+                "Xingqiu",
+                "Yelan",
+                "Zhongli"
+            ],
+            [
+                "Alhaitham",
+                "Xingqiu",
+                "Yelan",
+                "Kuki_Shinobu"
+            ],
+            [
+                "Nilou",
+                "Yelan",
+                "Nahida",
+                "Kokomi"
+            ]
+        ]
+    },
+    "Yoimiya": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Yoimiya",
+                "Yelan",
+                "Yun_Jin",
+                "Zhongli"
+            ],
+            [
+                "Yoimiya",
+                "Xingqiu",
+                "Sucrose",
+                "Thoma"
+            ],
+            [
+                "Yoimiya",
+                "Fischl",
+                "Beidou",
+                "Bennett"
+            ]
+        ]
+    },
+    "Yumemizuki-Mizuki": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Yumemizuki_Mizuki",
+                "Albedo",
+                "Lan_Yan",
+                "Shogun_Raiden"
+            ],
+            [
+                "Yumemizuki_Mizuki",
+                "Clorinde",
+                "Noelle",
+                "Dori"
+            ],
+            [
+                "Yumemizuki_Mizuki",
+                "Kujou_Sara",
+                "Keqing",
+                "Kinich"
+            ],
+            [
+                "Yumemizuki_Mizuki",
+                "Shenhe",
+                "Emilie",
+                "Dori"
+            ]
+        ]
+    },
+    "Yun_Jin": {
+        "star": 4,
+        "element": 4,
+        "best_team": [
+            [
+                "Yoimiya",
+                "Yelan",
+                "Yun_Jin",
+                "Zhongli"
+            ],
+            [
+                "Hu_Tao",
+                "Xingqiu",
+                "Yun_Jin",
+                "Zhongli"
+            ]
+        ]
+    },
+    "Zhongli": {
+        "star": 5,
+        "element": 5,
+        "best_team": [
+            [
+                "Hu_Tao",
+                "Xingqiu",
+                "Yelan",
+                "Zhongli"
+            ],
+            [
+                "Xiao",
+                "Faruzan",
+                "Albedo",
+                "Zhongli"
+            ],
+            [
+                "Yoimiya",
+                "Yelan",
+                "Bennett",
+                "Zhongli"
+            ]
+        ]
+    }
+}
